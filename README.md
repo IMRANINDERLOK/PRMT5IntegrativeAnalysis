@@ -66,7 +66,7 @@ This repository provides all curated data, scripts, and analysis outputs used to
 
 ## 📈 Citation
 If you use this repository, please cite:  
-**MImran Mohd., et al. (2025).**  
+**Imran Mohd., et al. (2025).**  
 *Structural Mechanisms and Molecular Insights into PRMT5 Inhibition.*  
 
 ---
